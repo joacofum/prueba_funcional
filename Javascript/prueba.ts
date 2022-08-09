@@ -5,7 +5,7 @@ console.log(doubled)*/
 //tsc nombrearchivo .ts
 
 //funcional
-let cantidad: number[] = [10, 20, 30];
+let cantidad = [10, 20, 30];
 let iva: number = 40;
 
 let primerFuncion: number = calcularTotalFactura(cantidad, iva);
